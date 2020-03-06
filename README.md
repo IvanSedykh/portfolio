@@ -1,4 +1,4 @@
-## Здарова педики
+## Здарова
 
 You can use the [editor on GitHub](https://github.com/IvanSedykh/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
